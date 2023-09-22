@@ -11,6 +11,7 @@ export const toyService = {
 }
 
 function query(filterBy = {}) {
+    console.log(filterBy)
     let toysToDisplay = toys
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
@@ -22,8 +23,10 @@ function query(filterBy = {}) {
     }
     else if (filterBy.inStock === 'false')
         toysToDisplay = toysToDisplay.filter(toy => !toy.inStock)
-
-
+    if (filterBy.sortBy === 'alphabet')
+        toysToDisplay = toysToDisplay.sort((t1, t2) => { return t1.name.localeCompare(t2.name) })
+    else if (filterBy.sortBy === 'price')
+        toysToDisplay = toysToDisplay.sort((t1, t2) => { return t1.price - t2.price })
     return Promise.resolve(toysToDisplay)
 }
 

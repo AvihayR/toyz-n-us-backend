@@ -1,27 +1,14 @@
 [
     {
-        "_id": "t101",
-        "name": "Talking Bear",
-        "price": 55,
+        "name": "Hotwheels - Nissan Skyline",
+        "price": 140,
         "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
+            "wheels",
+            "action figure"
         ],
-        "createdAt": 1631031801011,
-        "inStock": true
-    },
-    {
-        "_id": "t102",
-        "name": "Buzz Lightyear",
-        "price": 123,
-        "labels": [
-            "Doll",
-            "Battery Powered",
-            "Action figure"
-        ],
-        "createdAt": 1631021501011,
-        "inStock": true
+        "createdAt": null,
+        "inStock": true,
+        "_id": "nXk88"
     },
     {
         "_id": "t103",
@@ -58,23 +45,24 @@
         "_id": "NeEm3"
     },
     {
-        "name": " Hotwheels - Nissan Skyline",
-        "price": 140,
+        "_id": "t102",
+        "name": "Buzz Lightyear",
+        "price": 123,
         "labels": [
-            "wheels",
-            "action figure"
+            "Doll",
+            "Battery Powered",
+            "Action figure"
         ],
-        "createdAt": null,
-        "inStock": true,
-        "_id": "nXk88"
+        "createdAt": 1631021501011,
+        "inStock": true
     },
     {
-        "name": "Teddy bear",
-        "price": 25,
+        "name": "Random toy",
+        "price": 12,
         "labels": [],
-        "createdAt": 1695402413817,
-        "inStock": true,
-        "_id": "cpDgD"
+        "createdAt": 1695402571204,
+        "inStock": false,
+        "_id": "MtGlm"
     },
     {
         "name": "Regex For Alien Babies - The Book📖",
@@ -85,11 +73,23 @@
         "_id": "Yf0Pw"
     },
     {
-        "name": "Random toy",
-        "price": 12,
+        "_id": "t101",
+        "name": "Talking Bear",
+        "price": 55,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
+        "name": "Teddy bear",
+        "price": 25,
         "labels": [],
-        "createdAt": 1695402571204,
-        "inStock": false,
-        "_id": "MtGlm"
+        "createdAt": 1695402413817,
+        "inStock": true,
+        "_id": "cpDgD"
     }
 ]
