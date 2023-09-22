@@ -23,10 +23,14 @@ function query(filterBy = {}) {
     }
     else if (filterBy.inStock === 'false')
         toysToDisplay = toysToDisplay.filter(toy => !toy.inStock)
+
     if (filterBy.sortBy === 'alphabet')
-        toysToDisplay = toysToDisplay.sort((t1, t2) => { return t1.name.localeCompare(t2.name) })
+        if (filterBy.isDesc === 'true') toysToDisplay = toysToDisplay.sort((t1, t2) => { return t2.name.localeCompare(t1.name) })
+        else toysToDisplay = toysToDisplay.sort((t1, t2) => { return t1.name.localeCompare(t2.name) })
     else if (filterBy.sortBy === 'price')
-        toysToDisplay = toysToDisplay.sort((t1, t2) => { return t1.price - t2.price })
+        if (filterBy.isDesc === 'true') toysToDisplay = toysToDisplay.sort((t1, t2) => { return t2.price - t1.price })
+        else toysToDisplay = toysToDisplay.sort((t1, t2) => { return t1.price - t2.price })
+
     return Promise.resolve(toysToDisplay)
 }
 

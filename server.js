@@ -34,8 +34,7 @@ app.use(express.static('public'))
 // **************** Toys API ****************:
 // List
 app.get('/api/toy', (req, res) => {
-    const { txt, inStock, sortBy } = req.query
-    const filterBy = { txt, inStock, sortBy }
+    const filterBy = { ...req.query }
     toyService.query(filterBy)
         .then(toys => {
             res.send(toys)
