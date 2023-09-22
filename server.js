@@ -47,16 +47,20 @@ app.get('/api/toy', (req, res) => {
 
 // Add
 app.post('/api/toy', (req, res) => {
-    const loggedinUser = userService.validateToken(req.cookies.loginToken)
-    if (!loggedinUser) return res.status(401).send('Cannot add toy')
-    const { vendor, speed, price } = req.body
-
+    // const loggedinUser = userService.validateToken(req.cookies.loginToken)
+    // if (!loggedinUser) return res.status(401).send('Cannot add toy')
+    const { name, price, labels, createdAt, inStock } = req.body
+    console.log(req.body)
     const toy = {
-        vendor,
-        speed: +speed,
-        price: +price
+        name,
+        price: +price,
+        labels,
+        createdAt: +createdAt,
+        inStock
     }
-    toyService.save(toy, loggedinUser)
+
+    // toyService.save(toy, loggedinUser)
+    toyService.save(toy)
         .then(savedToy => {
             res.send(savedToy)
         })
