@@ -3,8 +3,8 @@
         "name": "Hotwheels - Nissan Skyline",
         "price": 140,
         "labels": [
-            "wheels",
-            "action figure"
+            "On wheels",
+            "Action figure"
         ],
         "createdAt": null,
         "inStock": true,
@@ -37,8 +37,8 @@
         "name": "Batman action figure",
         "price": 220,
         "labels": [
-            "doll",
-            "action figure"
+            "Doll",
+            "Action figure"
         ],
         "createdAt": null,
         "inStock": true,
@@ -59,15 +59,19 @@
     {
         "name": "Random toy",
         "price": 12,
-        "labels": [],
+        "labels": [
+            "Baby"
+        ],
         "createdAt": 1695402571204,
         "inStock": false,
         "_id": "MtGlm"
     },
     {
         "name": "Regex For Alien Babies - The Book📖",
-        "price": 80085,
-        "labels": [],
+        "price": 80,
+        "labels": [
+            "Baby"
+        ],
         "createdAt": 1695402497766,
         "inStock": false,
         "_id": "Yf0Pw"
@@ -87,9 +91,21 @@
     {
         "name": "Teddy bear",
         "price": 25,
-        "labels": [],
+        "labels": [
+            "Baby"
+        ],
         "createdAt": 1695402413817,
         "inStock": true,
         "_id": "cpDgD"
+    },
+    {
+        "name": "Baby bear",
+        "price": 150,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695460078072,
+        "inStock": true,
+        "_id": "oDfYS"
     }
 ]
