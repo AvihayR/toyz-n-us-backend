@@ -1,62 +1,5 @@
 [
     {
-        "name": "Hotwheels - Nissan Skyline",
-        "price": 140,
-        "labels": [
-            "On wheels",
-            "Action figure"
-        ],
-        "createdAt": null,
-        "inStock": true,
-        "_id": "nXk88"
-    },
-    {
-        "_id": "t103",
-        "name": "Animals puzzle",
-        "price": 125,
-        "labels": [
-            "Puzzle",
-            "Board games",
-            "Puzzle"
-        ],
-        "createdAt": 1631030001011,
-        "inStock": false
-    },
-    {
-        "_id": "t104",
-        "name": "Barbie",
-        "price": 105,
-        "labels": [
-            "Doll",
-            "Baby"
-        ],
-        "createdAt": 1631050001011,
-        "inStock": true
-    },
-    {
-        "name": "Batman action figure",
-        "price": 220,
-        "labels": [
-            "Doll",
-            "Action figure"
-        ],
-        "createdAt": null,
-        "inStock": true,
-        "_id": "NeEm3"
-    },
-    {
-        "_id": "t102",
-        "name": "Buzz Lightyear",
-        "price": 123,
-        "labels": [
-            "Doll",
-            "Battery Powered",
-            "Action figure"
-        ],
-        "createdAt": 1631021501011,
-        "inStock": true
-    },
-    {
         "name": "Random toy",
         "price": 12,
         "labels": [
@@ -67,14 +10,14 @@
         "_id": "MtGlm"
     },
     {
-        "name": "Regex For Alien Babies - The Book📖",
-        "price": 80,
+        "name": "Teddy bear",
+        "price": 25,
         "labels": [
             "Baby"
         ],
-        "createdAt": 1695402497766,
-        "inStock": false,
-        "_id": "Yf0Pw"
+        "createdAt": 1695402413817,
+        "inStock": true,
+        "_id": "cpDgD"
     },
     {
         "_id": "t101",
@@ -89,14 +32,60 @@
         "inStock": true
     },
     {
-        "name": "Teddy bear",
-        "price": 25,
+        "name": "Regex For Alien Babies - The Book📖",
+        "price": 80,
         "labels": [
             "Baby"
         ],
-        "createdAt": 1695402413817,
+        "createdAt": 1695402497766,
+        "inStock": false,
+        "_id": "Yf0Pw"
+    },
+    {
+        "_id": "t104",
+        "name": "Barbie",
+        "price": 105,
+        "labels": [
+            "Doll",
+            "Baby"
+        ],
+        "createdAt": 1631050001011,
+        "inStock": true
+    },
+    {
+        "_id": "t102",
+        "name": "Buzz Lightyear",
+        "price": 123,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Action figure"
+        ],
+        "createdAt": 1631021501011,
+        "inStock": true
+    },
+    {
+        "_id": "t103",
+        "name": "Animals puzzle",
+        "price": 125,
+        "labels": [
+            "Puzzle",
+            "Board games",
+            "Puzzle"
+        ],
+        "createdAt": 1631030001011,
+        "inStock": false
+    },
+    {
+        "name": "Hotwheels - Nissan Skyline",
+        "price": 140,
+        "labels": [
+            "On wheels",
+            "Action figure"
+        ],
+        "createdAt": null,
         "inStock": true,
-        "_id": "cpDgD"
+        "_id": "nXk88"
     },
     {
         "name": "Baby bear",
@@ -107,5 +96,26 @@
         "createdAt": 1695460078072,
         "inStock": true,
         "_id": "oDfYS"
+    },
+    {
+        "name": "new toy",
+        "price": 150,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695504374937,
+        "inStock": true,
+        "_id": "wID8s"
+    },
+    {
+        "name": "Batman action figure",
+        "price": 220,
+        "labels": [
+            "Doll",
+            "Action figure"
+        ],
+        "createdAt": null,
+        "inStock": true,
+        "_id": "NeEm3"
     }
 ]
