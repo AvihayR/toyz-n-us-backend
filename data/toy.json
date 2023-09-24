@@ -98,16 +98,6 @@
         "_id": "oDfYS"
     },
     {
-        "name": "new toy",
-        "price": 150,
-        "labels": [
-            "Baby"
-        ],
-        "createdAt": 1695504374937,
-        "inStock": true,
-        "_id": "wID8s"
-    },
-    {
         "name": "Batman action figure",
         "price": 220,
         "labels": [
