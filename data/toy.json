@@ -1,7 +1,7 @@
 [
     {
-        "name": "Random toy",
-        "price": 12,
+        "name": "Edited from UI",
+        "price": 512,
         "labels": [
             "Baby"
         ],
@@ -107,5 +107,35 @@
         "createdAt": null,
         "inStock": true,
         "_id": "NeEm3"
+    },
+    {
+        "name": "Try editing me",
+        "price": 111,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695673315147,
+        "inStock": true,
+        "_id": "sjuDC"
+    },
+    {
+        "name": "hello",
+        "price": 123,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695680182174,
+        "inStock": true,
+        "_id": "dixXo"
+    },
+    {
+        "name": "hi",
+        "price": 111,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695680190317,
+        "inStock": true,
+        "_id": "n7Mo3"
     }
 ]
