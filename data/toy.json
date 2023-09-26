@@ -1,70 +1,5 @@
 [
     {
-        "name": "Edited from UI",
-        "price": 512,
-        "labels": [
-            "Baby"
-        ],
-        "createdAt": 1695402571204,
-        "inStock": false,
-        "_id": "MtGlm"
-    },
-    {
-        "name": "Teddy bear",
-        "price": 25,
-        "labels": [
-            "Baby"
-        ],
-        "createdAt": 1695402413817,
-        "inStock": true,
-        "_id": "cpDgD"
-    },
-    {
-        "_id": "t101",
-        "name": "Talking Bear",
-        "price": 55,
-        "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
-        ],
-        "createdAt": 1631031801011,
-        "inStock": true
-    },
-    {
-        "name": "Regex For Alien Babies - The Book📖",
-        "price": 80,
-        "labels": [
-            "Baby"
-        ],
-        "createdAt": 1695402497766,
-        "inStock": false,
-        "_id": "Yf0Pw"
-    },
-    {
-        "_id": "t104",
-        "name": "Barbie",
-        "price": 105,
-        "labels": [
-            "Doll",
-            "Baby"
-        ],
-        "createdAt": 1631050001011,
-        "inStock": true
-    },
-    {
-        "_id": "t102",
-        "name": "Buzz Lightyear",
-        "price": 123,
-        "labels": [
-            "Doll",
-            "Battery Powered",
-            "Action figure"
-        ],
-        "createdAt": 1631021501011,
-        "inStock": true
-    },
-    {
         "_id": "t103",
         "name": "Animals puzzle",
         "price": 125,
@@ -75,17 +10,6 @@
         ],
         "createdAt": 1631030001011,
         "inStock": false
-    },
-    {
-        "name": "Hotwheels - Nissan Skyline",
-        "price": 140,
-        "labels": [
-            "On wheels",
-            "Action figure"
-        ],
-        "createdAt": null,
-        "inStock": true,
-        "_id": "nXk88"
     },
     {
         "name": "Baby bear",
@@ -109,33 +33,54 @@
         "_id": "NeEm3"
     },
     {
-        "name": "Try editing me",
-        "price": 111,
+        "name": "Edited from UI",
+        "price": 512,
         "labels": [
             "Baby"
         ],
-        "createdAt": 1695673315147,
-        "inStock": true,
-        "_id": "sjuDC"
+        "createdAt": 1695402571204,
+        "inStock": false,
+        "_id": "MtGlm"
     },
     {
-        "name": "hello",
-        "price": 123,
+        "name": "Hotwheels - Nissan Skyline",
+        "price": 140,
         "labels": [
-            "Baby"
+            "On wheels",
+            "Action figure"
         ],
-        "createdAt": 1695680182174,
+        "createdAt": null,
         "inStock": true,
-        "_id": "dixXo"
+        "_id": "nXk88"
     },
     {
-        "name": "hi",
-        "price": 111,
+        "name": "Regex For Alien Babies - The Book📖",
+        "price": 80,
         "labels": [
             "Baby"
         ],
-        "createdAt": 1695680190317,
+        "createdAt": 1695402497766,
+        "inStock": false,
+        "_id": "Yf0Pw"
+    },
+    {
+        "name": "aaa",
+        "price": 1,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695737641906,
         "inStock": true,
-        "_id": "n7Mo3"
+        "_id": "Fw2QN"
+    },
+    {
+        "name": "newest",
+        "price": 124,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1695743876677,
+        "inStock": true,
+        "_id": "81OnF"
     }
 ]
