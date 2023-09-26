@@ -64,16 +64,6 @@
         "_id": "Yf0Pw"
     },
     {
-        "name": "aaa",
-        "price": 1,
-        "labels": [
-            "Baby"
-        ],
-        "createdAt": 1695737641906,
-        "inStock": true,
-        "_id": "Fw2QN"
-    },
-    {
         "name": "newest",
         "price": 124,
         "labels": [
