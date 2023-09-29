@@ -5,6 +5,9 @@ export async function getToys(req, res) {
     try {
         const filterBy = {
             txt: req.query.txt || '',
+            sortBy: req.query.sortBy || '',
+            inStock: req.query.inStock || '',
+            isDesc: req.query.isDesc || false
         }
         logger.debug('Getting Toys', filterBy)
         const toys = await toyService.query(filterBy)

@@ -6,12 +6,23 @@ import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
 async function query(filterBy = { txt: '' }) {
+    // console.log(filterBy)
     try {
         const criteria = {
-            name: { $regex: filterBy.txt, $options: 'i' }
+            name: { $regex: filterBy.txt, $options: 'i' },
         }
+
+        if (filterBy.inStock !== '') {
+            criteria.inStock = JSON.parse(filterBy.inStock)
+        }
+
+        const sortCriteria = !filterBy.sortBy ? null : {
+            [filterBy.sortBy]: filterBy.isDesc === 'true' ? -1 : 1,
+        }
+        const collation = { locale: 'en' };
+
         const collection = await dbService.getCollection('toy')
-        var toys = await collection.find(criteria).toArray()
+        var toys = await collection.find(criteria).collation(collation).sort(sortCriteria).toArray()
         return toys
     } catch (err) {
         logger.error('cannot find toys', err)
