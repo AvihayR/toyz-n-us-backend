@@ -920,3 +920,384 @@
 29.9.2023, 13:32:55 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
 29.9.2023, 13:33:06 - INFO - server.js loaded... 
 29.9.2023, 13:33:06 - INFO - Server is running on port: 3030 
+29.9.2023, 13:35:58 - INFO - Req was made | / 
+29.9.2023, 13:35:58 - DEBUG - Getting Toys | {"txt":"","sortBy":"none","inStock":"none","isDesc":false} 
+29.9.2023, 13:35:58 - ERROR - cannot find toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:35:58 - ERROR - Failed to get toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:36:02 - DEBUG - Getting Toys | {"txt":"","sortBy":"none","inStock":"none","isDesc":false} 
+29.9.2023, 13:36:02 - ERROR - Failed to get toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:36:02 - INFO - Req was made | / 
+29.9.2023, 13:36:02 - ERROR - cannot find toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:39:29 - INFO - Req was made | / 
+29.9.2023, 13:39:29 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"none","isDesc":false} 
+29.9.2023, 13:39:29 - ERROR - cannot find toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:39:29 - ERROR - Failed to get toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:39:31 - INFO - Req was made | / 
+29.9.2023, 13:39:31 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"none","isDesc":false} 
+29.9.2023, 13:39:31 - ERROR - cannot find toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:39:31 - ERROR - Failed to get toys | SyntaxError: Unexpected token o in JSON at position 1 
+29.9.2023, 13:39:35 - INFO - Req was made | / 
+29.9.2023, 13:39:35 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:39:37 - INFO - Req was made | / 
+29.9.2023, 13:39:37 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:40:10 - INFO - Req was made | / 
+29.9.2023, 13:40:10 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:40:47 - INFO - Req was made | / 
+29.9.2023, 13:40:47 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:40:54 - INFO - Req was made | / 
+29.9.2023, 13:40:54 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":false} 
+29.9.2023, 13:40:57 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"true"} 
+29.9.2023, 13:40:57 - INFO - Req was made | / 
+29.9.2023, 13:40:58 - INFO - Req was made | / 
+29.9.2023, 13:40:58 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"false"} 
+29.9.2023, 13:41:05 - INFO - Req was made | / 
+29.9.2023, 13:41:05 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"false"} 
+29.9.2023, 13:41:08 - INFO - Req was made | / 
+29.9.2023, 13:41:08 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"false"} 
+29.9.2023, 13:41:09 - INFO - Req was made | / 
+29.9.2023, 13:41:09 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"true"} 
+29.9.2023, 13:41:10 - INFO - Req was made | / 
+29.9.2023, 13:41:10 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"false"} 
+29.9.2023, 13:41:13 - INFO - Req was made | / 
+29.9.2023, 13:41:13 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:42:19 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:42:19 - INFO - Req was made | / 
+29.9.2023, 13:42:36 - INFO - Req was made | / 
+29.9.2023, 13:42:36 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:42:39 - INFO - Req was made | / 
+29.9.2023, 13:42:39 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:42:42 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:42:42 - INFO - Req was made | / 
+29.9.2023, 13:43:28 - INFO - Req was made | / 
+29.9.2023, 13:43:28 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:43:58 - INFO - Req was made | / 
+29.9.2023, 13:43:58 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:44:02 - INFO - Req was made | / 
+29.9.2023, 13:44:02 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":false} 
+29.9.2023, 13:44:07 - INFO - Req was made | / 
+29.9.2023, 13:44:07 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"true"} 
+29.9.2023, 13:44:08 - INFO - Req was made | / 
+29.9.2023, 13:44:08 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"false"} 
+29.9.2023, 13:44:20 - INFO - Req was made | / 
+29.9.2023, 13:44:20 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:44:22 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:44:22 - INFO - Req was made | / 
+29.9.2023, 13:44:24 - INFO - Req was made | / 
+29.9.2023, 13:44:24 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"true"} 
+29.9.2023, 13:44:25 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:44:25 - INFO - Req was made | / 
+29.9.2023, 13:44:27 - INFO - Req was made | / 
+29.9.2023, 13:44:27 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:44:29 - INFO - Req was made | / 
+29.9.2023, 13:44:29 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:44:31 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:44:31 - INFO - Req was made | / 
+29.9.2023, 13:44:34 - INFO - Req was made | / 
+29.9.2023, 13:44:34 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:44:38 - INFO - Req was made | / 
+29.9.2023, 13:44:38 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:44:40 - INFO - Req was made | / 
+29.9.2023, 13:44:40 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:45:13 - INFO - Req was made | / 
+29.9.2023, 13:45:13 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:45:16 - INFO - Req was made | / 
+29.9.2023, 13:45:16 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:45:18 - INFO - Req was made | / 
+29.9.2023, 13:45:18 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:45:21 - INFO - Req was made | / 
+29.9.2023, 13:45:21 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:45:42 - INFO - Req was made | / 
+29.9.2023, 13:45:42 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:47:04 - INFO - Req was made | / 
+29.9.2023, 13:47:04 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:47:06 - INFO - Req was made | / 
+29.9.2023, 13:47:06 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:47:09 - INFO - Req was made | / 
+29.9.2023, 13:47:09 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:47:36 - INFO - Req was made | / 
+29.9.2023, 13:47:36 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:47:38 - INFO - Req was made | / 
+29.9.2023, 13:47:38 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:47:39 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:47:39 - INFO - Req was made | / 
+29.9.2023, 13:47:39 - INFO - Req was made | / 
+29.9.2023, 13:47:39 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 13:47:52 - INFO - Req was made | / 
+29.9.2023, 13:47:52 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 13:47:55 - INFO - Req was made | / 
+29.9.2023, 13:47:55 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+29.9.2023, 18:48:31 - INFO - Req was made | / 
+29.9.2023, 18:48:31 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 18:49:44 - INFO - Req was made | / 
+29.9.2023, 18:49:44 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 18:49:52 - INFO - Req was made | / 
+29.9.2023, 18:49:52 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 23:46:28 - INFO - Req was made | / 
+29.9.2023, 23:46:28 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+29.9.2023, 23:56:03 - DEBUG - auth.service - signup with username: posty, fullname: Post Malone 
+29.9.2023, 23:56:03 - DEBUG - auth.service - login with username: posty 
+29.9.2023, 23:56:03 - DEBUG - auth.route - new account created: {"username":"posty","password":"$2b$10$cp.R/cEayL1mfc1RGhbK9..NRixnAgqsWWMVx2sifW09lMABWugH.","fullname":"Post Malone","score":0,"_id":"651739e30f42555ad4a55a1f"} 
+29.9.2023, 23:59:04 - DEBUG - auth.service - login with username: posty 
+29.9.2023, 23:59:04 - INFO - User login:  | {"_id":"651739e30f42555ad4a55a1f","username":"posty","fullname":"Post Malone","score":0} 
+29.9.2023, 23:59:17 - DEBUG - auth.service - login with username: posty 
+29.9.2023, 23:59:17 - ERROR - Failed to Login Error: Invalid username or password 
+29.9.2023, 23:59:22 - DEBUG - auth.service - login with username: posty 
+29.9.2023, 23:59:22 - INFO - User login:  | {"_id":"651739e30f42555ad4a55a1f","username":"posty","fullname":"Post Malone","score":0} 
+30.9.2023, 0:16:06 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:16:06 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:16:12 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:16:12 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:18:00 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:18:00 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:18:36 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:18:36 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:18:40 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:18:40 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:18:55 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:18:55 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:19:19 - DEBUG - auth.service - login with username: posty 
+30.9.2023, 0:19:20 - INFO - User login:  | {"_id":"651739e30f42555ad4a55a1f","username":"posty","fullname":"Post Malone","score":0} 
+30.9.2023, 0:20:01 - INFO - Req was made | / 
+30.9.2023, 0:20:01 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 0:20:05 - INFO - Req was made | / 
+30.9.2023, 0:20:05 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 0:24:20 - DEBUG - auth.service - signup with username: adminov, fullname: Admin 
+30.9.2023, 0:24:20 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:24:20 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:25:01 - DEBUG - auth.service - signup with username: hello, fullname: 123 
+30.9.2023, 0:25:01 - DEBUG - auth.route - new account created: {"username":"hello","password":"$2b$10$nHtislCLPXhGfxrl4pPsxOxF71ZCA/2t52uMAa0l.C1O0b5UxSFxO","fullname":"123","score":0,"_id":"651740ad0f42555ad4a55a20"} 
+30.9.2023, 0:25:01 - DEBUG - auth.service - login with username: hello 
+30.9.2023, 0:26:33 - DEBUG - auth.service - signup with username: hello, fullname: 123 
+30.9.2023, 0:26:33 - DEBUG - auth.service - login with username: hello 
+30.9.2023, 0:26:33 - DEBUG - auth.route - new account created: {"username":"hello","password":"$2b$10$QbEPJfBZLPohiUTifgcsGeM47xfqpCRShZ6/6Qrw64Nv1/ZJqZCVu","fullname":"123","score":0,"_id":"651741090f42555ad4a55a21"} 
+30.9.2023, 0:26:51 - DEBUG - auth.service - signup with username: hello, fullname: 1 
+30.9.2023, 0:26:51 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:26:51 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:27:16 - DEBUG - auth.service - signup with username: new, fullname: new 
+30.9.2023, 0:27:16 - DEBUG - auth.route - new account created: {"username":"new","password":"$2b$10$2xPSCW0s.G9l4seXu1pIPOergqEtOhtiJmWTb6n7YBlHi7P.O7aIe","fullname":"new","score":0,"_id":"651741340f42555ad4a55a22"} 
+30.9.2023, 0:27:16 - DEBUG - auth.service - login with username: new 
+30.9.2023, 0:28:42 - DEBUG - auth.service - signup with username: new, fullname: new 
+30.9.2023, 0:28:42 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:28:42 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:28:57 - DEBUG - auth.service - signup with username: hello, fullname: hello 
+30.9.2023, 0:28:57 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:28:57 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:29:51 - DEBUG - auth.service - signup with username: hello, fullname: hello 
+30.9.2023, 0:29:51 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:29:51 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:31:05 - DEBUG - auth.service - signup with username: hello1, fullname: hello1 
+30.9.2023, 0:31:05 - DEBUG - auth.route - new account created: {"username":"hello1","password":"$2b$10$JA/LLBbqDJKWOLqACU950ud47n.WyHvzrql6gJ33.GJjGtAeAHYE2","fullname":"hello1","score":0,"_id":"651742190f42555ad4a55a23"} 
+30.9.2023, 0:31:05 - DEBUG - auth.service - login with username: hello1 
+30.9.2023, 0:31:23 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:31:23 - DEBUG - auth.route - new account created: {"username":"zb","password":"$2b$10$6s.V1/RqgUuWbEi370IdZehiHB0OeVuSIKShULgFaSyyW.V1H2yE6","fullname":"zb","score":0,"_id":"6517422b0f42555ad4a55a24"} 
+30.9.2023, 0:31:23 - DEBUG - auth.service - login with username: zb 
+30.9.2023, 0:31:29 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:31:30 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:31:30 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:36:42 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:36:42 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:36:42 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:37:07 - DEBUG - auth.service - login with username: zb 
+30.9.2023, 0:37:08 - INFO - User login:  | {"_id":"6517422b0f42555ad4a55a24","username":"zb","fullname":"zb","score":0} 
+30.9.2023, 0:37:22 - DEBUG - auth.service - signup with username: zb1, fullname: zb1 
+30.9.2023, 0:37:22 - DEBUG - auth.route - new account created: {"username":"zb1","password":"$2b$10$2QYuMJHrIm6cBBI1G8GGv.OtepdL.6gYrlmZVg6Djcpysa9nKkIDO","fullname":"zb1","score":0,"_id":"651743920f42555ad4a55a25"} 
+30.9.2023, 0:37:23 - DEBUG - auth.service - login with username: zb1 
+30.9.2023, 0:38:02 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:38:02 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:38:02 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:39:30 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:39:30 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:39:30 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:39:47 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:39:48 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:39:48 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:40:24 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:40:24 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:40:24 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:40:39 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:40:39 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:40:39 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:42:13 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:42:13 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:42:13 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:42:58 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:42:58 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:42:58 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:43:33 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:43:33 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:43:33 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:44:05 - DEBUG - auth.service - signup with username: zb, fullname: zb 
+30.9.2023, 0:44:05 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:44:05 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:44:21 - DEBUG - auth.service - signup with username: adminov, fullname: aaa 
+30.9.2023, 0:44:21 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:44:21 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:44:23 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:44:23 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:44:29 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:44:29 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:44:50 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:44:50 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:45:03 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:45:03 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:45:05 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:45:05 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:45:06 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:45:06 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:45:10 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:45:10 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:45:49 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:45:49 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:46:00 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 0:46:01 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:46:28 - DEBUG - auth.service - login with username: admin 
+30.9.2023, 0:46:28 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:47:28 - DEBUG - auth.service - login with username: admin 
+30.9.2023, 0:47:28 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:47:40 - DEBUG - auth.service - login with username: admin 
+30.9.2023, 0:47:40 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:48:30 - DEBUG - auth.service - login with username: admin 
+30.9.2023, 0:48:30 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:48:32 - DEBUG - auth.service - login with username: admin 
+30.9.2023, 0:48:32 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:48:38 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:48:38 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:48:50 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:48:50 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:50:40 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:50:40 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:51:00 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:51:00 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:51:18 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:51:18 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:51:32 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:51:32 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:51:39 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:51:39 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:51:56 - DEBUG - auth.service - signup with username: aaa, fullname: aaa 
+30.9.2023, 0:51:56 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$bwEzjgbVANHWvpXZaroI.ObtPossVOc4vQm4ycisz4sIRRLoofiCe","fullname":"aaa","score":0,"_id":"651746fc0f42555ad4a55a26"} 
+30.9.2023, 0:51:56 - DEBUG - auth.service - login with username: aaa 
+30.9.2023, 0:52:06 - DEBUG - auth.service - signup with username: puki, fullname: aaa 
+30.9.2023, 0:52:06 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:52:06 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:52:09 - DEBUG - auth.service - login with username: puki 
+30.9.2023, 0:52:09 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:52:18 - DEBUG - auth.service - login with username: puki 
+30.9.2023, 0:52:18 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 0:53:22 - DEBUG - auth.service - signup with username: adminov, fullname: Yaniv Adminov 
+30.9.2023, 0:53:22 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 0:53:22 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 0:53:30 - DEBUG - auth.service - signup with username: adminov, fullname: Yaniv Adminov 
+30.9.2023, 0:53:30 - DEBUG - auth.route - new account created: {"username":"adminov","password":"$2b$10$5Ty9/oZmary/KEtRp0DWyuq3XahlREbFVBToyL1z3gTLlRjMLLaQW","fullname":"Yaniv Adminov","score":0,"_id":"6517475a0f42555ad4a55a27"} 
+30.9.2023, 0:53:30 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:16:25 - DEBUG - auth.service - signup with username: adminov, fullname: Yaniv Adminov 
+30.9.2023, 1:16:25 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 1:16:25 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 1:16:29 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:16:29 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 1:16:33 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:16:33 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+30.9.2023, 1:17:00 - INFO - server.js loaded... 
+30.9.2023, 1:17:00 - INFO - Server is running on port: 3030 
+30.9.2023, 1:17:05 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:17:06 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 1:17:07 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:17:07 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 1:17:10 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:17:10 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 1:17:17 - DEBUG - auth.service - signup with username: adminov, fullname: Yaniv Adminov 
+30.9.2023, 1:17:17 - ERROR - Failed to signup Error: Username taken 
+30.9.2023, 1:17:17 - ERROR - cannot insert user | Error: Username taken 
+30.9.2023, 1:17:21 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:17:21 - ERROR - Failed to Login Error: Invalid username or password 
+30.9.2023, 1:17:26 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:17:26 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+30.9.2023, 1:18:16 - INFO - server.js loaded... 
+30.9.2023, 1:18:16 - INFO - Server is running on port: 3030 
+30.9.2023, 1:18:18 - INFO - Req was made | / 
+30.9.2023, 1:18:18 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:18:54 - INFO - server.js loaded... 
+30.9.2023, 1:18:54 - INFO - Server is running on port: 3030 
+30.9.2023, 1:19:40 - INFO - server.js loaded... 
+30.9.2023, 1:19:40 - INFO - Server is running on port: 3030 
+30.9.2023, 1:20:30 - INFO - server.js loaded... 
+30.9.2023, 1:20:30 - INFO - Server is running on port: 3030 
+30.9.2023, 1:21:11 - INFO - server.js loaded... 
+30.9.2023, 1:21:11 - INFO - Server is running on port: 3030 
+30.9.2023, 1:21:28 - INFO - Req was made | / 
+30.9.2023, 1:21:28 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:29:54 - INFO - Req was made | / 
+30.9.2023, 1:29:54 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:30:21 - INFO - Req was made | / 
+30.9.2023, 1:30:21 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:30:32 - INFO - Req was made | / 
+30.9.2023, 1:30:32 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:31:32 - INFO - server.js loaded... 
+30.9.2023, 1:31:32 - INFO - Server is running on port: 3030 
+30.9.2023, 1:31:55 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 1:31:55 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+30.9.2023, 1:33:46 - INFO - Req was made | / 
+30.9.2023, 1:33:46 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:34:03 - INFO - Req was made | / 
+30.9.2023, 1:34:03 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:39:06 - INFO - server.js loaded... 
+30.9.2023, 1:39:06 - INFO - Server is running on port: 3030 
+30.9.2023, 1:41:45 - DEBUG - auth.service - signup with username: hello, fullname: Hello1 
+30.9.2023, 1:41:45 - DEBUG - auth.route - new account created: {"username":"hello","password":"$2b$10$n.hoVBWv10hP/0BuSZ.jWeU0U.PYdl.Q62xjs27/ttswXsIn3ey2S","fullname":"Hello1","score":0,"_id":"651752a97a4f998e6853cae7"} 
+30.9.2023, 1:41:45 - DEBUG - auth.service - login with username: hello 
+30.9.2023, 1:52:50 - INFO - server.js loaded... 
+30.9.2023, 1:52:50 - INFO - Server is running on port: 3030 
+30.9.2023, 1:53:51 - INFO - server.js loaded... 
+30.9.2023, 1:53:51 - INFO - Server is running on port: 3030 
+30.9.2023, 1:54:12 - INFO - Req was made | / 
+30.9.2023, 1:54:12 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:55:57 - INFO - Req was made | / 
+30.9.2023, 1:55:57 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:58:22 - INFO - Req was made | / 
+30.9.2023, 1:58:22 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:58:24 - INFO - Req was made | / 
+30.9.2023, 1:58:24 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:59:01 - INFO - Req was made | / 
+30.9.2023, 1:59:01 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:59:16 - INFO - Req was made | / 
+30.9.2023, 1:59:16 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 1:59:46 - INFO - Req was made | / 
+30.9.2023, 1:59:46 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 2:00:37 - INFO - Req was made | / 
+30.9.2023, 2:00:37 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 2:00:49 - INFO - Req was made | / 
+30.9.2023, 2:00:49 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 2:00:57 - DEBUG - auth.service - login with username: adminov 
+30.9.2023, 2:00:57 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+30.9.2023, 2:01:01 - INFO - Req was made | / 
+30.9.2023, 2:01:01 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 2:01:31 - INFO - Req was made | / 
+30.9.2023, 2:01:31 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 2:01:36 - INFO - Req was made | / 
+30.9.2023, 2:01:36 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":false} 
+30.9.2023, 2:01:37 - INFO - Req was made | / 
+30.9.2023, 2:01:37 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"true"} 
+30.9.2023, 2:01:39 - INFO - Req was made | / 
+30.9.2023, 2:01:39 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"","isDesc":"false"} 
+30.9.2023, 2:01:41 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"true","isDesc":"false"} 
+30.9.2023, 2:01:41 - INFO - Req was made | / 
+30.9.2023, 2:01:43 - INFO - Req was made | / 
+30.9.2023, 2:01:43 - DEBUG - Getting Toys | {"txt":"","sortBy":"name","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:46 - INFO - Req was made | / 
+30.9.2023, 2:01:46 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:47 - INFO - Req was made | / 
+30.9.2023, 2:01:47 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"true"} 
+30.9.2023, 2:01:48 - INFO - Req was made | / 
+30.9.2023, 2:01:48 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:51 - INFO - Req was made | / 
+30.9.2023, 2:01:51 - DEBUG - Getting Toys | {"txt":"t","sortBy":"price","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:52 - INFO - Req was made | / 
+30.9.2023, 2:01:52 - DEBUG - Getting Toys | {"txt":"te","sortBy":"price","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:54 - INFO - Req was made | / 
+30.9.2023, 2:01:54 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:57 - INFO - Req was made | / 
+30.9.2023, 2:01:57 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
+30.9.2023, 2:01:58 - INFO - Req was made | / 
+30.9.2023, 2:01:58 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 2:02:04 - INFO - Req was made | / 
+30.9.2023, 2:02:04 - DEBUG - Getting Toys | {"txt":"","sortBy":"price","inStock":"false","isDesc":"false"} 
