@@ -10,14 +10,10 @@ export const toyRoutes = express.Router()
 
 toyRoutes.get('/', log, getToys)
 toyRoutes.get('/:id', getToyById)
-toyRoutes.post('/', addToy)
-// toyRoutes.post('/', requireAuth, addToy)
-toyRoutes.put('/:id', updateToy)
-// toyRoutes.put('/:id', requireAuth, updateToy)
-toyRoutes.delete('/:id', removeToy)
-// toyRoutes.delete('/:id', requireAuth, removeToy)
+toyRoutes.post('/', requireAuth, requireAdmin, addToy)
+toyRoutes.put('/:id', requireAuth, requireAdmin, updateToy)
+toyRoutes.delete('/:id', requireAuth, requireAdmin, removeToy)
 
-// router.delete('/:id', requireAuth, requireAdmin, removeToy)
 
 toyRoutes.post('/:id/msg', addToyMsg)
 // toyRoutes.post('/:id/msg', requireAuth, addToyMsg)
