@@ -3,9 +3,11 @@ import cookieParser from 'cookie-parser'
 import cors from 'cors'
 import path, { dirname } from 'path'
 import { fileURLToPath } from 'url'
+import "dotenv/config.js"
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
+
 
 import { logger } from './services/logger.service.js'
 logger.info('server.js loaded...')
