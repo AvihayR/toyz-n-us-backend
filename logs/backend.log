@@ -1857,3 +1857,162 @@
 1.10.2023, 19:41:50 - INFO - Req was made | / 
 1.10.2023, 19:42:09 - INFO - Req was made | / 
 1.10.2023, 19:42:34 - INFO - Req was made | / 
+1.10.2023, 19:47:04 - INFO - Req was made | / 
+1.10.2023, 19:52:21 - INFO - Req was made | / 
+1.10.2023, 19:52:47 - INFO - Req was made | / 
+1.10.2023, 19:53:33 - INFO - Req was made | / 
+1.10.2023, 19:56:31 - INFO - Req was made | / 
+1.10.2023, 19:56:44 - INFO - Req was made | / 
+1.10.2023, 19:56:56 - INFO - Req was made | / 
+1.10.2023, 19:57:16 - INFO - Req was made | / 
+1.10.2023, 19:57:26 - INFO - Req was made | / 
+1.10.2023, 19:58:05 - INFO - Req was made | / 
+1.10.2023, 19:59:13 - INFO - Req was made | / 
+1.10.2023, 19:59:15 - INFO - Req was made | / 
+1.10.2023, 19:59:18 - INFO - Req was made | / 
+1.10.2023, 19:59:25 - INFO - Req was made | / 
+1.10.2023, 20:02:20 - INFO - Req was made | / 
+1.10.2023, 20:02:46 - INFO - Req was made | / 
+1.10.2023, 20:02:50 - INFO - Req was made | / 
+1.10.2023, 20:02:50 - INFO - Req was made | / 
+1.10.2023, 20:02:55 - INFO - Req was made | / 
+1.10.2023, 20:02:55 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:02:57 - INFO - Req was made | / 
+1.10.2023, 20:03:03 - INFO - Req was made | / 
+1.10.2023, 20:03:03 - INFO - Req was made | / 
+1.10.2023, 20:03:37 - INFO - Req was made | / 
+1.10.2023, 20:03:37 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:03:40 - INFO - Req was made | / 
+1.10.2023, 20:03:40 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:03:42 - INFO - Req was made | / 
+1.10.2023, 20:03:45 - INFO - Req was made | / 
+1.10.2023, 20:03:51 - INFO - Req was made | / 
+1.10.2023, 20:04:30 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 20:04:30 - ERROR - Failed to Login Error: Invalid username or password 
+1.10.2023, 20:04:45 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 20:04:45 - ERROR - Failed to Login Error: Invalid username or password 
+1.10.2023, 20:05:04 - DEBUG - auth.service - login with username: pook 
+1.10.2023, 20:05:05 - INFO - User login:  | {"_id":"65175803812af58e648c895c","username":"pook","fullname":"123","score":0} 
+1.10.2023, 20:05:10 - INFO - Req was made | / 
+1.10.2023, 20:05:10 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:05:11 - INFO - Req was made | / 
+1.10.2023, 20:05:22 - INFO - Req was made | / 
+1.10.2023, 20:05:22 - INFO - Req was made | / 
+1.10.2023, 20:05:26 - DEBUG - auth.service - login with username: pook 
+1.10.2023, 20:05:26 - ERROR - Failed to Login Error: Invalid username or password 
+1.10.2023, 20:08:02 - INFO - server.js loaded... 
+1.10.2023, 20:08:02 - INFO - Server is running on port: 3030 
+1.10.2023, 20:08:22 - DEBUG - auth.service - signup with username: puki, fullname: puki pak 
+1.10.2023, 20:08:22 - ERROR - cannot insert user | Error: Username taken 
+1.10.2023, 20:08:22 - ERROR - Failed to signup Error: Username taken 
+1.10.2023, 20:08:30 - DEBUG - auth.service - signup with username: puki1, fullname: puki pak 
+1.10.2023, 20:08:31 - DEBUG - auth.route - new account created: {"username":"puki1","password":"$2b$10$XRJ95ISVapwbC5PPokp/Ce59aNCULbtH3tTOU34ekvldbgtD4xTM.","fullname":"puki pak","score":0,"_id":"6519a78fcbc01d4f2026a6c8"} 
+1.10.2023, 20:08:31 - DEBUG - auth.service - login with username: puki1 
+1.10.2023, 20:08:36 - INFO - Req was made | / 
+1.10.2023, 20:08:36 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:08:38 - INFO - Req was made | / 
+1.10.2023, 20:08:46 - INFO - Req was made | / 
+1.10.2023, 20:08:46 - INFO - Req was made | / 
+1.10.2023, 20:08:59 - DEBUG - auth.service - login with username: puki1 
+1.10.2023, 20:08:59 - INFO - User login:  | {"_id":"6519a78fcbc01d4f2026a6c8","username":"puki1","fullname":"puki pak","score":0} 
+1.10.2023, 20:12:17 - INFO - Req was made | / 
+1.10.2023, 20:12:17 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:12:26 - INFO - Req was made | / 
+1.10.2023, 20:12:26 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:12:27 - INFO - Req was made | / 
+1.10.2023, 20:14:05 - INFO - Req was made | / 
+1.10.2023, 20:14:28 - INFO - Req was made | / 
+1.10.2023, 20:19:23 - INFO - Req was made | / 
+1.10.2023, 20:19:23 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:19:24 - INFO - Req was made | / 
+1.10.2023, 20:19:57 - INFO - Req was made | / 
+1.10.2023, 20:19:57 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:26:39 - INFO - Req was made | / 
+1.10.2023, 20:26:56 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:26:56 - INFO - Req was made | / 
+1.10.2023, 20:26:58 - INFO - Req was made | / 
+1.10.2023, 20:27:13 - INFO - Req was made | / 
+1.10.2023, 20:27:13 - INFO - Req was made | / 
+1.10.2023, 20:27:24 - DEBUG - auth.service - login with username: puki1 
+1.10.2023, 20:27:25 - INFO - User login:  | {"_id":"6519a78fcbc01d4f2026a6c8","username":"puki1","fullname":"puki pak","score":0,"isAdmin":true} 
+1.10.2023, 20:27:29 - INFO - Req was made | / 
+1.10.2023, 20:29:09 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:29:09 - INFO - Req was made | / 
+1.10.2023, 20:29:12 - INFO - Req was made | / 
+1.10.2023, 20:29:12 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:29:12 - INFO - Req was made | / 
+1.10.2023, 20:29:12 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:29:16 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:29:16 - INFO - Req was made | / 
+1.10.2023, 20:40:41 - INFO - Req was made | / 
+1.10.2023, 20:40:41 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:40:42 - INFO - Req was made | / 
+1.10.2023, 20:41:33 - INFO - Req was made | / 
+1.10.2023, 20:41:36 - INFO - Req was made | / 
+1.10.2023, 20:41:46 - INFO - Req was made | / 
+1.10.2023, 20:41:47 - INFO - Req was made | / 
+1.10.2023, 20:44:26 - DEBUG - auth.service - login with username: puki1 
+1.10.2023, 20:44:26 - INFO - User login:  | {"_id":"6519a78fcbc01d4f2026a6c8","username":"puki1","fullname":"puki pak","score":0,"isAdmin":true} 
+1.10.2023, 20:47:07 - INFO - Req was made | / 
+1.10.2023, 20:48:13 - INFO - Req was made | / 
+1.10.2023, 20:48:29 - INFO - Req was made | / 
+1.10.2023, 20:48:35 - INFO - Req was made | / 
+1.10.2023, 20:48:57 - INFO - Req was made | / 
+1.10.2023, 20:50:20 - INFO - Req was made | / 
+1.10.2023, 20:52:53 - DEBUG - auth.service - login with username: pook 
+1.10.2023, 20:52:53 - ERROR - Failed to Login Error: Invalid username or password 
+1.10.2023, 20:54:27 - DEBUG - auth.service - signup with username: dawg, fullname: Snoop dawg 
+1.10.2023, 20:54:27 - DEBUG - auth.route - new account created: {"username":"dawg","password":"$2b$10$rX8gPsIhrZOUAh/BhTwfHeCRL0XUxBc0ER34dyMBaMKtc6O3Mr8.C","fullname":"Snoop dawg","score":0,"_id":"6519b253cbc01d4f2026a6cb"} 
+1.10.2023, 20:54:27 - DEBUG - auth.service - login with username: dawg 
+1.10.2023, 20:54:36 - INFO - Req was made | / 
+1.10.2023, 20:54:41 - INFO - Req was made | / 
+1.10.2023, 20:54:41 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:54:43 - INFO - Req was made | / 
+1.10.2023, 20:54:50 - INFO - Req was made | / 
+1.10.2023, 20:54:50 - INFO - Req was made | / 
+1.10.2023, 20:54:57 - INFO - Req was made | / 
+1.10.2023, 20:54:57 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 20:54:59 - INFO - Req was made | / 
+1.10.2023, 20:55:07 - INFO - Req was made | / 
+1.10.2023, 20:55:07 - INFO - Req was made | / 
+1.10.2023, 20:55:09 - INFO - Req was made | / 
+1.10.2023, 20:55:26 - INFO - Req was made | / 
+1.10.2023, 20:55:52 - DEBUG - auth.service - signup with username: new, fullname: new 
+1.10.2023, 20:55:52 - DEBUG - auth.route - new account created: {"username":"new","password":"$2b$10$wUzLY/rLtAPv2NTPEMIsaeQJ81Y2CgzKRDlIIvZsLMZff7j7iCh26","fullname":"new","score":0,"_id":"6519b2a8cbc01d4f2026a6ce"} 
+1.10.2023, 20:55:52 - DEBUG - auth.service - login with username: new 
+1.10.2023, 20:55:58 - INFO - Req was made | / 
+1.10.2023, 20:56:12 - INFO - Req was made | / 
+1.10.2023, 20:56:33 - DEBUG - auth.service - login with username: dawg 
+1.10.2023, 20:56:34 - INFO - User login:  | {"_id":"6519b253cbc01d4f2026a6cb","username":"dawg","fullname":"Snoop dawg","score":0} 
+1.10.2023, 20:56:34 - INFO - Req was made | / 
+1.10.2023, 20:56:39 - DEBUG - auth.service - login with username: new 
+1.10.2023, 20:56:39 - INFO - User login:  | {"_id":"6519b2a8cbc01d4f2026a6ce","username":"new","fullname":"new","score":0} 
+1.10.2023, 20:56:39 - INFO - Req was made | / 
+1.10.2023, 20:57:30 - DEBUG - auth.service - login with username: new 
+1.10.2023, 20:57:31 - INFO - User login:  | {"_id":"6519b2a8cbc01d4f2026a6ce","username":"new","fullname":"new","score":0} 
+1.10.2023, 20:57:31 - INFO - Req was made | / 
+1.10.2023, 20:57:40 - DEBUG - auth.service - login with username: dawg 
+1.10.2023, 20:57:40 - INFO - User login:  | {"_id":"6519b253cbc01d4f2026a6cb","username":"dawg","fullname":"Snoop dawg","score":0} 
+1.10.2023, 20:57:40 - INFO - Req was made | / 
+1.10.2023, 20:57:50 - DEBUG - auth.service - login with username: new 
+1.10.2023, 20:57:50 - INFO - User login:  | {"_id":"6519b2a8cbc01d4f2026a6ce","username":"new","fullname":"new","score":0} 
+1.10.2023, 20:57:50 - INFO - Req was made | / 
+1.10.2023, 20:57:58 - INFO - Req was made | / 
+1.10.2023, 20:58:00 - INFO - Req was made | / 
+1.10.2023, 20:58:12 - INFO - Req was made | / 
+1.10.2023, 20:58:26 - INFO - Req was made | / 
+1.10.2023, 20:58:33 - INFO - Req was made | / 
+1.10.2023, 20:59:04 - DEBUG - auth.service - login with username: dawg 
+1.10.2023, 20:59:04 - INFO - User login:  | {"_id":"6519b253cbc01d4f2026a6cb","username":"dawg","fullname":"Snoop dawg","score":0} 
+1.10.2023, 20:59:04 - INFO - Req was made | / 
+1.10.2023, 20:59:10 - DEBUG - auth.service - login with username: new 
+1.10.2023, 20:59:10 - INFO - User login:  | {"_id":"6519b2a8cbc01d4f2026a6ce","username":"new","fullname":"new","score":0} 
+1.10.2023, 20:59:10 - INFO - Req was made | / 
+1.10.2023, 20:59:35 - INFO - Req was made | / 
+1.10.2023, 20:59:57 - DEBUG - auth.service - login with username: dawg 
+1.10.2023, 20:59:57 - INFO - User login:  | {"_id":"6519b253cbc01d4f2026a6cb","username":"dawg","fullname":"Snoop dawg","score":0} 
+1.10.2023, 21:00:09 - INFO - Req was made | / 
+1.10.2023, 21:00:53 - DEBUG - auth.service - login with username: dawg 
+1.10.2023, 21:00:53 - INFO - User login:  | {"_id":"6519b253cbc01d4f2026a6cb","username":"dawg","fullname":"Snoop dawg","score":0} 
+1.10.2023, 21:00:53 - INFO - Req was made | / 
+1.10.2023, 21:00:55 - INFO - Req was made | / 

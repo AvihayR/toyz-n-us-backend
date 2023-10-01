@@ -46,7 +46,7 @@ export async function addReview(req, res) {
         // user.score += 10
         // loggedinUser.score += 10
 
-        loggedinUser = await userService.update(loggedinUser)
+        // loggedinUser = await userService.update(loggedinUser)
         review.byUser = loggedinUser
 
         // User info is saved also in the login-token, update it
