@@ -1454,3 +1454,406 @@
 30.9.2023, 17:44:28 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
 30.9.2023, 17:44:34 - INFO - Req was made | / 
 30.9.2023, 17:44:34 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+30.9.2023, 17:45:56 - INFO - Req was made | / 
+30.9.2023, 17:45:56 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 16:55:14 - INFO - server.js loaded... 
+1.10.2023, 16:55:14 - INFO - Server is running on port: 3030 
+1.10.2023, 16:56:04 - INFO - Req was made | / 
+1.10.2023, 16:56:04 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 16:56:11 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 16:56:11 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+1.10.2023, 16:56:14 - INFO - Req was made | / 
+1.10.2023, 16:56:14 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 17:00:27 - INFO - server.js loaded... 
+1.10.2023, 17:00:27 - INFO - Server is running on port: 3030 
+1.10.2023, 17:11:21 - INFO - server.js loaded... 
+1.10.2023, 17:11:21 - INFO - Server is running on port: 3030 
+1.10.2023, 17:11:26 - INFO - Req was made | / 
+1.10.2023, 17:11:26 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 17:13:06 - INFO - Req was made | / 
+1.10.2023, 17:13:06 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 17:13:30 - INFO - Req was made | / 
+1.10.2023, 17:14:30 - INFO - server.js loaded... 
+1.10.2023, 17:14:30 - INFO - Server is running on port: 3030 
+1.10.2023, 17:15:11 - INFO - Req was made | / 
+1.10.2023, 17:16:57 - INFO - Req was made | / 
+1.10.2023, 17:16:59 - INFO - Req was made | / 
+1.10.2023, 17:17:34 - INFO - server.js loaded... 
+1.10.2023, 17:17:34 - INFO - Server is running on port: 3030 
+1.10.2023, 17:17:36 - INFO - Req was made | / 
+1.10.2023, 17:17:36 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 17:17:36 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 17:18:29 - INFO - server.js loaded... 
+1.10.2023, 17:18:29 - INFO - Server is running on port: 3030 
+1.10.2023, 17:18:30 - INFO - Req was made | / 
+1.10.2023, 17:20:36 - INFO - Req was made | / 
+1.10.2023, 17:22:38 - INFO - server.js loaded... 
+1.10.2023, 17:22:38 - INFO - Server is running on port: 3030 
+1.10.2023, 17:22:39 - INFO - Req was made | / 
+1.10.2023, 17:22:39 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 17:22:39 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 17:22:51 - INFO - server.js loaded... 
+1.10.2023, 17:22:51 - INFO - Server is running on port: 3030 
+1.10.2023, 17:22:53 - INFO - Req was made | / 
+1.10.2023, 17:26:24 - INFO - server.js loaded... 
+1.10.2023, 17:26:24 - INFO - Server is running on port: 3030 
+1.10.2023, 17:26:26 - INFO - Req was made | / 
+1.10.2023, 17:26:29 - INFO - Req was made | / 
+1.10.2023, 17:27:52 - INFO - server.js loaded... 
+1.10.2023, 17:27:52 - INFO - Server is running on port: 3030 
+1.10.2023, 17:27:53 - INFO - Req was made | / 
+1.10.2023, 17:27:53 - ERROR - cannot find reviews | MongoError: A pipeline stage specification object must contain exactly one field. 
+1.10.2023, 17:27:53 - ERROR - Cannot get reviews | MongoError: A pipeline stage specification object must contain exactly one field. 
+1.10.2023, 17:28:19 - INFO - server.js loaded... 
+1.10.2023, 17:28:19 - INFO - Server is running on port: 3030 
+1.10.2023, 17:28:21 - INFO - Req was made | / 
+1.10.2023, 17:30:12 - INFO - server.js loaded... 
+1.10.2023, 17:30:12 - INFO - Server is running on port: 3030 
+1.10.2023, 17:30:16 - INFO - Req was made | / 
+1.10.2023, 17:30:42 - INFO - server.js loaded... 
+1.10.2023, 17:30:42 - INFO - Server is running on port: 3030 
+1.10.2023, 17:30:56 - INFO - server.js loaded... 
+1.10.2023, 17:30:56 - INFO - Server is running on port: 3030 
+1.10.2023, 17:30:57 - INFO - Req was made | / 
+1.10.2023, 17:31:51 - INFO - Req was made | / 
+1.10.2023, 17:32:43 - INFO - Req was made | / 
+1.10.2023, 17:34:56 - INFO - server.js loaded... 
+1.10.2023, 17:34:56 - INFO - Server is running on port: 3030 
+1.10.2023, 17:34:58 - INFO - Req was made | / 
+1.10.2023, 17:35:08 - INFO - server.js loaded... 
+1.10.2023, 17:35:08 - INFO - Server is running on port: 3030 
+1.10.2023, 17:35:12 - INFO - Req was made | / 
+1.10.2023, 17:36:14 - INFO - server.js loaded... 
+1.10.2023, 17:36:14 - INFO - Server is running on port: 3030 
+1.10.2023, 17:36:17 - INFO - Req was made | / 
+1.10.2023, 17:36:44 - INFO - server.js loaded... 
+1.10.2023, 17:36:44 - INFO - Server is running on port: 3030 
+1.10.2023, 17:36:46 - INFO - Req was made | / 
+1.10.2023, 17:36:59 - INFO - server.js loaded... 
+1.10.2023, 17:36:59 - INFO - Server is running on port: 3030 
+1.10.2023, 17:37:04 - INFO - server.js loaded... 
+1.10.2023, 17:37:04 - INFO - Server is running on port: 3030 
+1.10.2023, 17:37:04 - INFO - Req was made | / 
+1.10.2023, 17:41:07 - INFO - Req was made | / 
+1.10.2023, 17:41:29 - INFO - server.js loaded... 
+1.10.2023, 17:41:29 - INFO - Server is running on port: 3030 
+1.10.2023, 17:41:41 - INFO - server.js loaded... 
+1.10.2023, 17:41:41 - INFO - Server is running on port: 3030 
+1.10.2023, 17:41:44 - INFO - Req was made | / 
+1.10.2023, 17:43:44 - INFO - server.js loaded... 
+1.10.2023, 17:43:44 - INFO - Server is running on port: 3030 
+1.10.2023, 17:43:47 - INFO - Req was made | / 
+1.10.2023, 17:44:53 - INFO - server.js loaded... 
+1.10.2023, 17:44:53 - INFO - Server is running on port: 3030 
+1.10.2023, 17:45:23 - INFO - server.js loaded... 
+1.10.2023, 17:45:23 - INFO - Server is running on port: 3030 
+1.10.2023, 17:45:25 - INFO - Req was made | / 
+1.10.2023, 17:46:49 - INFO - server.js loaded... 
+1.10.2023, 17:46:49 - INFO - Server is running on port: 3030 
+1.10.2023, 17:46:51 - INFO - Req was made | / 
+1.10.2023, 17:46:58 - INFO - Req was made | / 
+1.10.2023, 17:47:23 - INFO - server.js loaded... 
+1.10.2023, 17:47:23 - INFO - Server is running on port: 3030 
+1.10.2023, 17:47:25 - INFO - Req was made | / 
+1.10.2023, 17:47:44 - INFO - server.js loaded... 
+1.10.2023, 17:47:44 - INFO - Server is running on port: 3030 
+1.10.2023, 17:47:45 - INFO - Req was made | / 
+1.10.2023, 17:47:45 - ERROR - Cannot get reviews | MongoError: A pipeline stage specification object must contain exactly one field. 
+1.10.2023, 17:47:45 - ERROR - cannot find reviews | MongoError: A pipeline stage specification object must contain exactly one field. 
+1.10.2023, 17:47:50 - INFO - server.js loaded... 
+1.10.2023, 17:47:50 - INFO - Server is running on port: 3030 
+1.10.2023, 17:47:57 - INFO - Req was made | / 
+1.10.2023, 17:49:14 - INFO - Req was made | / 
+1.10.2023, 17:50:12 - INFO - Req was made | / 
+1.10.2023, 17:50:17 - INFO - Req was made | / 
+1.10.2023, 17:55:50 - INFO - server.js loaded... 
+1.10.2023, 17:55:50 - INFO - Server is running on port: 3030 
+1.10.2023, 17:55:53 - INFO - Req was made | / 
+1.10.2023, 17:55:53 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 17:55:53 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.10.2023, 17:56:15 - INFO - server.js loaded... 
+1.10.2023, 17:56:15 - INFO - Server is running on port: 3030 
+1.10.2023, 17:56:18 - INFO - Req was made | / 
+1.10.2023, 17:56:44 - INFO - server.js loaded... 
+1.10.2023, 17:56:44 - INFO - Server is running on port: 3030 
+1.10.2023, 17:56:46 - INFO - Req was made | / 
+1.10.2023, 17:58:25 - INFO - server.js loaded... 
+1.10.2023, 17:58:25 - INFO - Server is running on port: 3030 
+1.10.2023, 17:58:27 - INFO - Req was made | / 
+1.10.2023, 17:59:19 - INFO - Req was made | / 
+1.10.2023, 18:00:19 - INFO - Req was made | / 
+1.10.2023, 18:03:06 - INFO - Req was made | / 
+1.10.2023, 18:04:41 - INFO - server.js loaded... 
+1.10.2023, 18:04:41 - INFO - Server is running on port: 3030 
+1.10.2023, 18:04:55 - INFO - Req was made | / 
+1.10.2023, 18:05:11 - INFO - server.js loaded... 
+1.10.2023, 18:05:11 - INFO - Server is running on port: 3030 
+1.10.2023, 18:05:11 - INFO - Req was made | / 
+1.10.2023, 18:05:43 - INFO - Req was made | / 
+1.10.2023, 18:13:34 - INFO - server.js loaded... 
+1.10.2023, 18:13:34 - INFO - Server is running on port: 3030 
+1.10.2023, 18:14:39 - INFO - server.js loaded... 
+1.10.2023, 18:14:39 - INFO - Server is running on port: 3030 
+1.10.2023, 18:15:00 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 18:15:00 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+1.10.2023, 18:16:58 - INFO - Req was made | / 
+1.10.2023, 18:17:24 - INFO - server.js loaded... 
+1.10.2023, 18:17:24 - INFO - Server is running on port: 3030 
+1.10.2023, 18:17:26 - INFO - Req was made | / 
+1.10.2023, 18:18:23 - INFO - Req was made | / 
+1.10.2023, 18:18:30 - INFO - server.js loaded... 
+1.10.2023, 18:18:30 - INFO - Server is running on port: 3030 
+1.10.2023, 18:18:32 - INFO - Req was made | / 
+1.10.2023, 18:18:36 - INFO - server.js loaded... 
+1.10.2023, 18:18:36 - INFO - Server is running on port: 3030 
+1.10.2023, 18:18:39 - INFO - Req was made | / 
+1.10.2023, 18:19:03 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 18:19:03 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+1.10.2023, 18:19:16 - INFO - Req was made | / 
+1.10.2023, 18:19:33 - INFO - Req was made | / 
+1.10.2023, 18:20:28 - INFO - server.js loaded... 
+1.10.2023, 18:20:28 - INFO - Server is running on port: 3030 
+1.10.2023, 18:20:29 - INFO - Req was made | / 
+1.10.2023, 18:20:50 - INFO - server.js loaded... 
+1.10.2023, 18:20:50 - INFO - Server is running on port: 3030 
+1.10.2023, 18:20:50 - INFO - Req was made | / 
+1.10.2023, 18:21:41 - INFO - Req was made | / 
+1.10.2023, 18:21:58 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 18:21:58 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+1.10.2023, 18:22:09 - INFO - Req was made | / 
+1.10.2023, 18:24:31 - INFO - Req was made | / 
+1.10.2023, 18:25:53 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 18:25:53 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+1.10.2023, 18:26:24 - INFO - Req was made | / 
+1.10.2023, 18:26:41 - DEBUG - auth.service - login with username: adminov 
+1.10.2023, 18:26:41 - INFO - User login:  | {"_id":"6517475a0f42555ad4a55a27","username":"adminov","fullname":"Yaniv Adminov","score":0,"isAdmin":true} 
+1.10.2023, 18:28:22 - INFO - Req was made | / 
+1.10.2023, 18:30:08 - INFO - Req was made | / 
+1.10.2023, 18:51:58 - INFO - Req was made | / 
+1.10.2023, 18:51:59 - INFO - Req was made | / 
+1.10.2023, 18:53:24 - INFO - Req was made | / 
+1.10.2023, 18:53:24 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 18:53:25 - INFO - Req was made | / 
+1.10.2023, 18:57:10 - INFO - Req was made | / 
+1.10.2023, 18:57:45 - INFO - Req was made | / 
+1.10.2023, 18:59:17 - INFO - Req was made | / 
+1.10.2023, 19:00:16 - INFO - Req was made | / 
+1.10.2023, 19:00:18 - INFO - Req was made | / 
+1.10.2023, 19:00:48 - INFO - Req was made | / 
+1.10.2023, 19:00:50 - INFO - Req was made | / 
+1.10.2023, 19:01:02 - INFO - Req was made | / 
+1.10.2023, 19:01:14 - INFO - Req was made | / 
+1.10.2023, 19:01:31 - INFO - Req was made | / 
+1.10.2023, 19:01:45 - INFO - Req was made | / 
+1.10.2023, 19:08:00 - INFO - Req was made | / 
+1.10.2023, 19:08:31 - INFO - Req was made | / 
+1.10.2023, 19:08:33 - INFO - Req was made | / 
+1.10.2023, 19:09:23 - INFO - Req was made | / 
+1.10.2023, 19:11:47 - INFO - Req was made | / 
+1.10.2023, 19:12:39 - INFO - Req was made | / 
+1.10.2023, 19:13:11 - INFO - Req was made | / 
+1.10.2023, 19:13:39 - INFO - Req was made | / 
+1.10.2023, 19:14:21 - INFO - Req was made | / 
+1.10.2023, 19:14:22 - INFO - Req was made | / 
+1.10.2023, 19:14:22 - INFO - Req was made | / 
+1.10.2023, 19:14:22 - INFO - Req was made | / 
+1.10.2023, 19:14:22 - ERROR - while finding user 65199adeb798c14eb09827d0 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - while finding user 65199adeb798c14eb09827d2 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - while finding user 65199adeb798c14eb09827ce | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - while finding user 65199adeb798c14eb09827d4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:24 - INFO - Req was made | / 
+1.10.2023, 19:14:24 - INFO - Req was made | / 
+1.10.2023, 19:14:24 - INFO - Req was made | / 
+1.10.2023, 19:14:25 - INFO - Req was made | / 
+1.10.2023, 19:14:25 - INFO - Req was made | / 
+1.10.2023, 19:14:25 - ERROR - while finding user 65199ae0b798c14eb09827d6 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - while finding user 65199ae1b798c14eb09827d8 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - while finding user 65199ae1b798c14eb09827da | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:25 - ERROR - while finding user 65199ae1b798c14eb09827dc | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:46 - INFO - Req was made | / 
+1.10.2023, 19:14:46 - INFO - Req was made | / 
+1.10.2023, 19:14:46 - ERROR - while finding user 65199af6b798c14eb09827de | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:46 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:46 - INFO - Req was made | / 
+1.10.2023, 19:14:46 - INFO - Req was made | / 
+1.10.2023, 19:14:46 - ERROR - while finding user 65199af6b798c14eb09827e0 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:46 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:46 - ERROR - while finding user 65199af6b798c14eb09827e2 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:46 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:49 - INFO - Req was made | / 
+1.10.2023, 19:14:49 - INFO - Req was made | / 
+1.10.2023, 19:14:49 - ERROR - while finding user 65199af9b798c14eb09827e4 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:49 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:49 - INFO - Req was made | / 
+1.10.2023, 19:14:49 - INFO - Req was made | / 
+1.10.2023, 19:14:49 - ERROR - while finding user 65199af9b798c14eb09827e6 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:49 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:49 - ERROR - while finding user 65199af9b798c14eb09827e8 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:14:49 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:15:25 - INFO - Req was made | / 
+1.10.2023, 19:15:25 - INFO - Req was made | / 
+1.10.2023, 19:15:25 - ERROR - while finding user 65199b1db798c14eb09827ea | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:15:25 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:15:25 - INFO - Req was made | / 
+1.10.2023, 19:15:25 - INFO - Req was made | / 
+1.10.2023, 19:15:26 - ERROR - while finding user 65199b1db798c14eb09827ec | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:15:26 - ERROR - while finding user 65199b1eb798c14eb09827ee | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:15:26 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:15:26 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:16:35 - INFO - server.js loaded... 
+1.10.2023, 19:16:35 - INFO - Server is running on port: 3030 
+1.10.2023, 19:16:37 - INFO - Req was made | / 
+1.10.2023, 19:16:37 - INFO - Req was made | / 
+1.10.2023, 19:16:37 - ERROR - while finding user 65199b6578ff63497066735b | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:16:37 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:16:37 - INFO - Req was made | / 
+1.10.2023, 19:16:37 - INFO - Req was made | / 
+1.10.2023, 19:16:38 - ERROR - while finding user 65199b6678ff63497066735f | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:16:38 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:16:38 - ERROR - while finding user 65199b6578ff63497066735d | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:16:38 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:17:23 - INFO - server.js loaded... 
+1.10.2023, 19:17:23 - INFO - Server is running on port: 3030 
+1.10.2023, 19:17:30 - INFO - Req was made | / 
+1.10.2023, 19:17:30 - INFO - Req was made | / 
+1.10.2023, 19:17:30 - ERROR - while finding user 65199b9ab2a9354858d37e33 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:17:30 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:17:30 - INFO - Req was made | / 
+1.10.2023, 19:17:31 - INFO - Req was made | / 
+1.10.2023, 19:17:31 - ERROR - while finding user 65199b9bb2a9354858d37e35 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:17:31 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:17:31 - ERROR - while finding user 65199b9bb2a9354858d37e37 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:17:31 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:09 - INFO - server.js loaded... 
+1.10.2023, 19:19:09 - INFO - Server is running on port: 3030 
+1.10.2023, 19:19:12 - INFO - Req was made | / 
+1.10.2023, 19:19:12 - INFO - Req was made | / 
+1.10.2023, 19:19:12 - INFO - Req was made | / 
+1.10.2023, 19:19:13 - ERROR - while finding user 65199c00b451cb4c14bb43b5 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:13 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:13 - INFO - Req was made | / 
+1.10.2023, 19:19:13 - ERROR - while finding user 65199c01b451cb4c14bb43b7 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:13 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:13 - ERROR - while finding user 65199c01b451cb4c14bb43b9 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:13 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:48 - INFO - server.js loaded... 
+1.10.2023, 19:19:48 - INFO - Server is running on port: 3030 
+1.10.2023, 19:19:50 - INFO - Req was made | / 
+1.10.2023, 19:19:50 - INFO - Req was made | / 
+1.10.2023, 19:19:50 - ERROR - while finding user 65199c261f90193160a11ae1 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:50 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:50 - INFO - Req was made | / 
+1.10.2023, 19:19:50 - INFO - Req was made | / 
+1.10.2023, 19:19:50 - ERROR - while finding user 65199c261f90193160a11ae3 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:50 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:50 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:19:50 - ERROR - while finding user 65199c261f90193160a11ae5 | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:20:08 - INFO - server.js loaded... 
+1.10.2023, 19:20:08 - INFO - Server is running on port: 3030 
+1.10.2023, 19:21:03 - INFO - Server is running on port: 3030 
+1.10.2023, 19:21:03 - INFO - server.js loaded... 
+1.10.2023, 19:21:05 - INFO - Req was made | / 
+1.10.2023, 19:21:05 - INFO - Req was made | / 
+1.10.2023, 19:21:05 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:05 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:05 - INFO - Req was made | / 
+1.10.2023, 19:21:05 - INFO - Req was made | / 
+1.10.2023, 19:21:06 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:06 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:06 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:06 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:49 - INFO - server.js loaded... 
+1.10.2023, 19:21:49 - INFO - Server is running on port: 3030 
+1.10.2023, 19:21:51 - INFO - Req was made | / 
+1.10.2023, 19:21:51 - INFO - Req was made | / 
+1.10.2023, 19:21:51 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:51 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:51 - INFO - Req was made | / 
+1.10.2023, 19:21:51 - INFO - Req was made | / 
+1.10.2023, 19:21:51 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:51 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:51 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:21:51 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:22:29 - INFO - server.js loaded... 
+1.10.2023, 19:22:29 - INFO - Server is running on port: 3030 
+1.10.2023, 19:22:30 - INFO - Req was made | / 
+1.10.2023, 19:22:31 - INFO - Req was made | / 
+1.10.2023, 19:22:31 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:22:31 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:22:31 - INFO - Req was made | / 
+1.10.2023, 19:22:31 - INFO - Req was made | / 
+1.10.2023, 19:22:31 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:22:31 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:22:31 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:22:31 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:23:53 - INFO - server.js loaded... 
+1.10.2023, 19:23:53 - INFO - Server is running on port: 3030 
+1.10.2023, 19:23:56 - INFO - Req was made | / 
+1.10.2023, 19:23:57 - INFO - Req was made | / 
+1.10.2023, 19:23:57 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:23:57 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:23:57 - INFO - Req was made | / 
+1.10.2023, 19:23:57 - INFO - Req was made | / 
+1.10.2023, 19:23:57 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:23:57 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:23:57 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:23:57 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+1.10.2023, 19:24:59 - INFO - server.js loaded... 
+1.10.2023, 19:24:59 - INFO - Server is running on port: 3030 
+1.10.2023, 19:25:29 - INFO - server.js loaded... 
+1.10.2023, 19:25:29 - INFO - Server is running on port: 3030 
+1.10.2023, 19:29:15 - INFO - Req was made | / 
+1.10.2023, 19:29:15 - INFO - Req was made | / 
+1.10.2023, 19:29:15 - INFO - Req was made | / 
+1.10.2023, 19:29:15 - INFO - Req was made | / 
+1.10.2023, 19:30:37 - INFO - Req was made | / 
+1.10.2023, 19:30:37 - INFO - Req was made | / 
+1.10.2023, 19:30:37 - INFO - Req was made | / 
+1.10.2023, 19:30:37 - INFO - Req was made | / 
+1.10.2023, 19:31:58 - INFO - Req was made | / 
+1.10.2023, 19:31:58 - INFO - Req was made | / 
+1.10.2023, 19:31:58 - INFO - Req was made | / 
+1.10.2023, 19:31:58 - INFO - Req was made | / 
+1.10.2023, 19:32:42 - INFO - Req was made | / 
+1.10.2023, 19:32:42 - DEBUG - Getting Toys | {"txt":"","sortBy":"","inStock":"","isDesc":false} 
+1.10.2023, 19:32:43 - INFO - Req was made | / 
+1.10.2023, 19:32:43 - INFO - Req was made | / 
+1.10.2023, 19:32:44 - INFO - Req was made | / 
+1.10.2023, 19:32:44 - INFO - Req was made | / 
+1.10.2023, 19:34:33 - INFO - Req was made | / 
+1.10.2023, 19:34:38 - INFO - Req was made | / 
+1.10.2023, 19:36:39 - INFO - Req was made | / 
+1.10.2023, 19:39:12 - INFO - server.js loaded... 
+1.10.2023, 19:39:12 - INFO - Server is running on port: 3030 
+1.10.2023, 19:39:16 - INFO - Req was made | / 
+1.10.2023, 19:39:32 - INFO - server.js loaded... 
+1.10.2023, 19:39:32 - INFO - Server is running on port: 3030 
+1.10.2023, 19:39:34 - INFO - Req was made | / 
+1.10.2023, 19:39:54 - INFO - server.js loaded... 
+1.10.2023, 19:39:54 - INFO - Server is running on port: 3030 
+1.10.2023, 19:39:59 - INFO - server.js loaded... 
+1.10.2023, 19:39:59 - INFO - Server is running on port: 3030 
+1.10.2023, 19:40:05 - INFO - Server is running on port: 3030 
+1.10.2023, 19:40:04 - INFO - server.js loaded... 
+1.10.2023, 19:40:07 - INFO - Req was made | / 
+1.10.2023, 19:40:59 - INFO - server.js loaded... 
+1.10.2023, 19:40:59 - INFO - Server is running on port: 3030 
+1.10.2023, 19:41:08 - INFO - Req was made | / 
+1.10.2023, 19:41:26 - INFO - Req was made | / 
+1.10.2023, 19:41:40 - INFO - Req was made | / 
+1.10.2023, 19:41:41 - INFO - Req was made | / 
+1.10.2023, 19:41:41 - INFO - Req was made | / 
+1.10.2023, 19:41:41 - INFO - Req was made | / 
+1.10.2023, 19:41:41 - INFO - Req was made | / 
+1.10.2023, 19:41:49 - INFO - Req was made | / 
+1.10.2023, 19:41:50 - INFO - Req was made | / 
+1.10.2023, 19:42:09 - INFO - Req was made | / 
+1.10.2023, 19:42:34 - INFO - Req was made | / 
