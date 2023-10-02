@@ -7,7 +7,7 @@ const { ObjectId } = mongodb
 async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
-        console.log(criteria)
+        // console.log(criteria)
         const collection = await dbService.getCollection('review')
         // const reviews = await collection.find(criteria).toArray()
         var reviews = await collection.aggregate([
@@ -40,7 +40,6 @@ async function query(filterBy = {}) {
             }
         ]).toArray()
         reviews = reviews.map(review => {
-            console.log(review.txt)
             review.byUser = { _id: review.byUser._id, fullname: review.byUser.fullname }
             review.toy = { _id: review.toy._id, name: review.toy.name }
             delete review.userId
